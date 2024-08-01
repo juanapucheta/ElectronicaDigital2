@@ -1,4 +1,4 @@
-# ElectronicaDigital2
+# Electrónica Digital 2
 
 En este repositorio se encuentra el desarrollo del Trabajo Final de Electrónica Digital II FCEFyN - UNC. 
 
